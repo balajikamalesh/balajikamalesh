@@ -23,33 +23,11 @@ I have over 10 years of experience building and scaling production web applicati
 
 ---
 
-## ⚙️ Engineering Interests
-
-- Scalable UI architecture
-- Event-driven systems
-- AI-powered product workflows
-- Frontend performance engineering
-- Developer productivity tooling
-- Full-stack system design
-
----
-
 ## 🤝 Open To
 
 - Staff / Senior Staff Frontend roles
 - Platform and developer tooling teams
 - AI product engineering teams
 
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn:  
-https://www.linkedin.com/in/balaji-k-b735b584/
-
-📧 Email:  
-abalajikamalesh@gmail.com
-
----
 
 ⭐ If you find any of my projects interesting, feel free to star or reach out!
